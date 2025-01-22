@@ -1,0 +1,17 @@
+th {
+  text-align: center;
+  vertical-align: middle;
+}
+
+tr {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.table-success {
+  background-color: #d4edda;
+  color: #155724;
+  color: white;
+}
+
+
