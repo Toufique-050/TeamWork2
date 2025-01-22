@@ -1,4 +1,4 @@
-// this is rehman work
+// this is rehman work here
 const productForm = document.getElementById("productForm");
 const productTable = document.getElementById("productTable");
 const productQuantityInput = document.getElementById("productQuantity");
