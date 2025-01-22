@@ -9,7 +9,9 @@ tr {
 }
 
 .table-success {
-  background-color: #d4edda;
+  /* background-color: #d4edda; */
+  /* Khuzaimma Changes */
+  background-color: #dbdbdb;
   color: #155724;
   color: white;
 }
